@@ -1,4 +1,4 @@
 import turtle
-bob = turtle.Turtle()
+bob = turtle
 print(bob)
 turtle.mainloop()
